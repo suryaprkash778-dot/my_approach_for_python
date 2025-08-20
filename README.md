@@ -3,3 +3,11 @@
 ### 2.) make flow chart diagram for the task or project you wanna complete.
 ### 3.) make to do list(comments inside program) for the project after breaking it down , then start with the easiest one.
 ### 4.) you can use stack overflow to ask about your errors in code.
+## DEBUGGING APPROACH:-
+### (a) describe the problem.
+### (b) some bugs occur only under certain conditions(not every time ) make them occur always.
+### (c) see issue as if you are a computer.
+### (d) use print to identify problem
+### (e) use debugger
+### (f) run your program in each step, before completing
+### (g)can ask stack overflow
