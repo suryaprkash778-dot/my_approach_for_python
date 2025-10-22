@@ -18,4 +18,4 @@
 ### 4.) coding
 ### 5.) testing and debugging
 ### 6.) looking for further modifications
-###use Ai and ask it to review and suggest improvements, that way you will learn new things.
+### (g) use Ai and ask it to review and suggest improvements, that way you will learn new things.
